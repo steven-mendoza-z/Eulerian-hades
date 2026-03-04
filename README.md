@@ -78,3 +78,4 @@ A Learning Platform and Problem Solver for engineering students to intuitively l
   <img src="documentation/views/dev_light.png" width="400"> 
   <img src="documentation/views/dev_dark.png" width="400">
 </div>
+
